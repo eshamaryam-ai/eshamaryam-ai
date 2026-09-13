@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Esha Maryam 👋
 
-<!--
-**eshamaryam-ai/eshamaryam-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Technology student exploring the intersection of technology, digital management, and business solutions.
 
-Here are some ideas to get you started:
+### 🌱 Currently exploring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 Social Media Management & Digital Marketing
+- ⚙️ Odoo & ERP Solutions
+- 💻 Software & Web Development
+- 🤖 AI & Automation
+
+### 🛠️ Skills & Technologies
+
+- Python
+- Web Development
+- Computer Vision & OCR
+- Odoo
+- Git & GitHub
+
+### 🎯 What I'm working toward
+
+I'm building practical projects and developing skills in digital management, business technology, and software solutions.
+
+### 📂 Projects
+
+I'm currently building my portfolio. More projects coming soon!
+
+---
+
+⭐ Thanks for visiting my profile!
